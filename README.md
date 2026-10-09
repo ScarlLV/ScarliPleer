@@ -59,7 +59,7 @@
 
 ### Option 1 — Download the `.exe` (recommended)
 
-1. Go to [**Releases**](https://github.com/ScarlLV/ScarliPleer)
+1. Go to [**Releases**](https://github.com/ScarlLV/ScarliPleer/releases)
 2. Download `ScarliPleer.exe`
 3. Run it
 4. Windows may show a warning → click **More info** → **Run anyway**
